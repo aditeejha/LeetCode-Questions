@@ -19,12 +19,12 @@ class Solution {
             sum+=temp2.val;
             temp2=temp2.next;
             }
-            if(temp2!=null){
+            //if(temp2!=null){
             ListNode n=new ListNode(sum);
             dummy.next=n;
             dummy=dummy.next;
             temp2=temp2.next;
-            }
+            //}
         }
         return res.next;
     }
