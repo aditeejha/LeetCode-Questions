@@ -1,14 +1,8 @@
-<h2><a href="https://leetcode.com/problems/count-valid-prefixes">Count Valid Prefixes</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>binary</strong> string <code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-valid-prefixes">Count Valid Prefixes</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <span data-keyword="binary-string">binary string</span> <code>s</code>.</p>
 
-<p>A <strong>prefix</strong> of <code>s</code> is considered <strong>valid</strong> if its characters can be rearranged to form an <strong>alternating</strong> string.</p>
+<p>A <span data-keyword="string-prefix">prefix</span> of <code>s</code> is considered <strong>valid</strong> if its characters can be rearranged to form an <strong>alternating</strong> string.</p>
 
 <p>Return the number of valid prefixes of <code>s</code>.</p>
-
-<p>A <strong>binary</strong> string is a string consisting only of <code>&#39;0&#39;</code> and <code>&#39;1&#39;</code>.</p>
-
-<p>A <strong>prefix</strong> of a string is a <strong>substring</strong> that starts from the beginning of the string and extends to any point within it.</p>
-
-<p>A <strong>substring</strong> is a contiguous <b>non-empty</b> sequence of characters within a string.</p>
 
 <p>A string is considered <strong>alternating</strong> if no two adjacent characters are equal.</p>
 
